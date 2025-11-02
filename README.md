@@ -1,78 +1,50 @@
-🏫 Educational Organization Using ServiceNow
+🏫 Educational Organization using ServiceNow
 📘 Project Overview
 
-This project focuses on automating and managing the administrative operations of an educational organization using the ServiceNow platform.
-The system provides a centralized platform for handling student admissions, academic record management, staff operations, and service requests.
-
-By utilizing ServiceNow’s workflow automation and access control capabilities, the project aims to replace manual processes with a secure, efficient, and transparent system that supports digital transformation in education.
+This project aims to streamline academic and administrative operations in educational institutions using ServiceNow.
+It automates request handling, approval processes, and record management — replacing manual paperwork and emails with a centralized, efficient digital workflow.
 
 👥 Team Information
-Role	Name
-Team ID	NM2025TMIDXXXXX
-Team Size	4 Members
-Team Leader	Jesika G
-Team Member 1	[Name]
-Team Member 2	[Name]
-Team Member 3	[Name]
-🛠️ Technologies Used
 
-Platform: ServiceNow
+ Role	         Details
+Team ID	       NM2025TMID02860
+Team Size	     4 Members
+Team Leader	   Jesika G
+Team Member 1	 Renisha R
+Team Member 2	 Akshaya S
+Team Member 3	 Ajini W
 
-Tools: Flow Designer, Form Designer, Table Configuration, Access Control Lists (ACLs)
+🔗 ServiceNow Instance
 
-Language: JavaScript (Client Scripts & Business Rules)
+https://dev293866.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D18c0c01bc3343210e2b9921ed4013160
 
-Modules Created:
+🎥 Demo Video Link
 
-Admissions Management
+https://drive.google.com/file/d/1uFiB54iDUmjPrtBnQG1_yncAEFmKhnUe/view?usp=drive_link 
 
-Student Information System
+📄 Description
 
-Address Details
+The Educational Organization Management System helps in managing student requests, approvals, and academic record tracking.
+Using ServiceNow, the system provides:
 
-Approval Workflow System
+Automated workflow for student service requests
 
-🎯 Project Objective
+Centralized approval management
 
-To develop a digital educational management system that automates admission workflows, secures student data, and enhances administrative efficiency.
+Role-based access for staff and students
 
-The system ensures that:
+Reduced manual errors and delays
 
-✅ Only authorized staff can modify or approve records.
+🧩 Modules Implemented
 
-✅ Students’ data is securely managed through ACLs.
+Student Request Submission
 
-✅ Approvals follow automated workflows using Flow Designer.
+Admin Request Approval
 
-✅ Processes like New Admission → Verification → Approval → Admission Complete are visualized using process flow.
+Faculty Record Management
 
-🧾 Problem Statement
+Automated Notifications
 
-Educational institutions often rely on manual paperwork, emails, or spreadsheets for managing admissions and staff data.
-This causes:
+💡 Outcome
 
-Delays in approvals
-
-Data inconsistency and security issues
-
-Difficulty in tracking progress and status
-
-The Educational Organization Using ServiceNow project addresses these issues by implementing automated workflows and role-based access for efficient process management.
-
-📋 Project Phases
-
-Empathize & Discover Phase – Analyzing existing manual systems in educational institutions.
-
-Project Planning Phase – Identifying key modules like Admissions, Student Details, and Workflow Approvals.
-
-Design & Development Phase – Creating custom tables, relationships, and forms using ServiceNow Form Designer.
-
-Implementation Phase – Developing approval workflows and access control logic with Flow Designer and ACLs.
-
-Testing & Evaluation Phase – Validating automation, permissions, and form usability.
-
-💬 Contributors
-
-This project is developed as part of the Naan Mudhalvan Program, focusing on workflow automation and service management using ServiceNow.
-
-“Transforming educational administration through automation, efficiency, and secure digital workflows.”
+This ServiceNow solution significantly improves operational efficiency and transparency within educational institutions.
