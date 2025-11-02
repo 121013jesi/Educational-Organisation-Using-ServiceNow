@@ -4,15 +4,17 @@
 This project aims to streamline academic and administrative operations in educational institutions using ServiceNow.
 It automates request handling, approval processes, and record management — replacing manual paperwork and emails with a centralized, efficient digital workflow.
 
+```
 👥 Team Information
 
- Role	         Details
-Team ID	       NM2025TMID02860
-Team Size	     4 Members
-Team Leader	   Jesika G
-Team Member 1	 Renisha R
-Team Member 2	 Akshaya S
-Team Member 3	 Ajini W
+Role           Details
+Team ID        NM2025TMID02860
+Team Size      4 Members
+Team Leader    Jesika G
+Team Member 1  Renisha R
+Team Member 2  Akshaya S
+Team Member 3  Ajini W
+```
 
 🔗 ServiceNow Instance
 
