@@ -41,7 +41,7 @@ Student Request Submission
 
 Admin Request Approval
 
-Faculty Record Management
+Faculty Record Management.
 
 Automated Notifications
 
