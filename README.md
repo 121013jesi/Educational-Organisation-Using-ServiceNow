@@ -1,41 +1,78 @@
-Optimizing-User-Group-and-Role-Management-with-Access-Control-and-Workflows-NM
+🏫 Educational Organization Using ServiceNow
 📘 Project Overview
-This project focuses on enhancing the management of users, groups, and roles within the ServiceNow environment by implementing efficient Access Control (ACLs) and automated workflows.
-The goal is to ensure secure data handling, streamline task approvals, and optimize administrative operations through automation.
+
+This project focuses on automating and managing the administrative operations of an educational organization using the ServiceNow platform.
+The system provides a centralized platform for handling student admissions, academic record management, staff operations, and service requests.
+
+By utilizing ServiceNow’s workflow automation and access control capabilities, the project aims to replace manual processes with a secure, efficient, and transparent system that supports digital transformation in education.
 
 👥 Team Information
 Role	Name
-Team ID	NM2025TMID08344
+Team ID	NM2025TMIDXXXXX
 Team Size	4 Members
-Team Leader	Thanga Prabha B
-Team Member 1	Bala Preethi M
-Team Member 2	Keerthana S
-Team Member 3	Abinaya S
+Team Leader	Jesika G
+Team Member 1	[Name]
+Team Member 2	[Name]
+Team Member 3	[Name]
 🛠️ Technologies Used
+
 Platform: ServiceNow
-Tools: Flow Designer, Table Configuration, Access Control Lists (ACL)
-Language: JavaScript (for business rules)
-Modules: User Management, Task Table 2, Project Table NM
-🧠 Project Objective
-To automate and secure user, group, and role management by implementing workflow-based approvals and access controls.
+
+Tools: Flow Designer, Form Designer, Table Configuration, Access Control Lists (ACLs)
+
+Language: JavaScript (Client Scripts & Business Rules)
+
+Modules Created:
+
+Admissions Management
+
+Student Information System
+
+Address Details
+
+Approval Workflow System
+
+🎯 Project Objective
+
+To develop a digital educational management system that automates admission workflows, secures student data, and enhances administrative efficiency.
+
 The system ensures that:
 
-Only authorized users can update records.
-Workflow approvals (e.g., from Alice) are required for status changes.
-Task progress and completion are tracked automatically.
-🧾 Problem Statement
-Manual management of user access and task approvals often leads to:
+✅ Only authorized staff can modify or approve records.
 
-Delayed task completions
-Unauthorized updates
-Inconsistent access control across roles
-This project addresses these issues by using ServiceNow Flow Designer to automate approvals and enforce ACL-based data protection.
+✅ Students’ data is securely managed through ACLs.
+
+✅ Approvals follow automated workflows using Flow Designer.
+
+✅ Processes like New Admission → Verification → Approval → Admission Complete are visualized using process flow.
+
+🧾 Problem Statement
+
+Educational institutions often rely on manual paperwork, emails, or spreadsheets for managing admissions and staff data.
+This causes:
+
+Delays in approvals
+
+Data inconsistency and security issues
+
+Difficulty in tracking progress and status
+
+The Educational Organization Using ServiceNow project addresses these issues by implementing automated workflows and role-based access for efficient process management.
 
 📋 Project Phases
-Ideation Phase – Problem identification and workflow planning
-Project Planning Phase – Defining roles, groups, and table structures
-Project Design Phase – Creating tables (Project Table NM, Task Table 2) and form layouts
-Requirement Analysis – Defining triggers, status fields, and approval logic
-Performance Testing – Validating flows, approvals, and data updates
+
+Empathize & Discover Phase – Analyzing existing manual systems in educational institutions.
+
+Project Planning Phase – Identifying key modules like Admissions, Student Details, and Workflow Approvals.
+
+Design & Development Phase – Creating custom tables, relationships, and forms using ServiceNow Form Designer.
+
+Implementation Phase – Developing approval workflows and access control logic with Flow Designer and ACLs.
+
+Testing & Evaluation Phase – Validating automation, permissions, and form usability.
+
 💬 Contributors
-This project is developed as part of the Naan Mudhalvan Program, focusing on workflow automation using ServiceNow.
+
+This project is developed as part of the Naan Mudhalvan Program, focusing on workflow automation and service management using ServiceNow.
+
+“Transforming educational administration through automation, efficiency, and secure digital workflows.”
