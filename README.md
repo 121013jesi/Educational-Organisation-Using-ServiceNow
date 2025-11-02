@@ -1,5 +1,5 @@
-🏫 Educational Organization using ServiceNow
-
+**🏫 Educational Organization using ServiceNow
+**
 📘 Project Overview
 
 This project aims to streamline academic and administrative operations in educational institutions using ServiceNow.
