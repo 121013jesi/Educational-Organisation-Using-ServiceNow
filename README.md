@@ -1,4 +1,5 @@
 🏫 Educational Organization Using ServiceNow
+
 📘 Project Overview
 This project focuses on automating and managing the administrative operations of an educational organization using the ServiceNow platform.
 The system provides a centralized platform for handling student admissions, academic record management, staff operations, and service requests.
